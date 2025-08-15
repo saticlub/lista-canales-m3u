@@ -1,70 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-name="ATV HD" tvg-logo="https://i.imgur.com/atv-logo.png" group-title="Perú",ATV HD
-http://181.189.244.252:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="Fillka Tv" tvg-logo="https://i.imgur.com/fillka-logo.png" group-title="Perú",Fillka Tv
-https://media2.streambrothers.com:19360/8028/8028.m3u8
-
-#EXTINF:-1 tvg-id="3" tvg-name="Latina" tvg-logo="https://i.imgur.com/latina-logo.png" group-title="Perú",Latina
-http://179.51.136.19:8000/play/a1as/index.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="America" tvg-logo="https://i.imgur.com/america-logo.png" group-title="Perú",America
-http://200.60.124.19:29000/play/a04r/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-name="Panamericana" tvg-logo="https://i.imgur.com/panamericana-logo.png" group-title="Perú",Panamericana
-http://200.60.124.19:29000/play/a04s/index.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-name="Willax TV" tvg-logo="https://i.imgur.com/willax-logo.png" group-title="Perú",Willax TV
-http://200.60.124.19:29000/play/a06s/index.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-name="RPP" tvg-logo="https://i.imgur.com/rpp-logo.png" group-title="Perú",RPP
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/12893
-
-#EXTINF:-1 tvg-id="8" tvg-name="Caracol HD" tvg-logo="https://i.imgur.com/caracol-logo.png" group-title="Colombia",Caracol HD
-http://181.78.14.26:8000/play/a00d
-
-#EXTINF:-1 tvg-id="9" tvg-name="Telepacifico" tvg-logo="https://i.imgur.com/telepacifico-logo.png" group-title="Colombia",Telepacifico
-http://fortv.cc:8080/90820916/64752029/78729
-
-#EXTINF:-1 tvg-id="10" tvg-name="WinSports" tvg-logo="https://i.imgur.com/winsports-logo.png" group-title="Colombia",WinSports
-http://fortv.cc:8080/90820916/64752029/78717
-
-#EXTINF:-1 tvg-id="11" tvg-name="Win Sport +" tvg-logo="https://i.imgur.com/winsport-plus-logo.png" group-title="Colombia",Win Sport +
-http://179.51.136.19:8000/play/a1bp/index.m3u8
-
-#EXTINF:-1 tvg-id="12" tvg-name="Ciudad Magazin" tvg-logo="https://i.imgur.com/ciudad-magazin-logo.png" group-title="Colombia",Ciudad Magazin
-https://is.gd/fIKFdB
-
-#EXTINF:-1 tvg-id="13" tvg-name="TVE" tvg-logo="https://i.imgur.com/tve-logo.png" group-title="España",TVE
-https://rtvehlsvodlote7.rtve.es/mediavodv2/resources/SHO_L-APRO/mp4/7/2/1729270243327.mp4/video.m3u8?hls_no_audio_only=true&hls_client_manifest_version=3&idasset=16294073
-
-#EXTINF:-1 tvg-id="14" tvg-name="LA 2" tvg-logo="https://i.imgur.com/la2-logo.png" group-title="España",LA 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="15" tvg-name="TELEMUNDO" tvg-logo="https://i.imgur.com/telemundo-logo.png" group-title="Internacional",TELEMUNDO
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="16" tvg-name="TELEMUNDO SD" tvg-logo="https://i.imgur.com/telemundo-logo.png" group-title="Internacional",TELEMUNDO SD
-http://200.60.124.19:29000/play/a01g
-
-#EXTINF:-1 tvg-id="17" tvg-name="Telemundo Latino" tvg-logo="https://i.imgur.com/telemundo-latino-logo.png" group-title="Internacional",Telemundo Latino
-http://181.119.86.68:8000/play/b023/index.m3u8
-
-#EXTINF:-1 tvg-id="18" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.imgur.com/cnn-esp-logo.png" group-title="Noticias",CNN ESPAÑOL
-http://45.176.193.222:2405/play/a019
-
-#EXTINF:-1 tvg-id="19" tvg-name="RT NOTICIAS" tvg-logo="https://i.imgur.com/rt-logo.png" group-title="Noticias",RT NOTICIAS
-https://rt-esp.servicecdn.ru/dvr/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="20" tvg-name="DW" tvg-logo="https://i.imgur.com/dw-logo.png" group-title="Noticias",DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="21" tvg-name="AMX NOTICIAS" tvg-logo="https://i.imgur.com/amx-logo.png" group-title="Noticias",AMX NOTICIAS
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-name="CTGN" tvg-logo="https://i.imgur.com/cgtn-logo.png" group-title="Noticias",CTGN
-https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8?ads_amagi_channel=878&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5546&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=85d4d485-e2b6-46a6-b499-c9e9086710e3&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="23" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/discovery-logo.png" group-title="Documentales",Discovery HD
 http://181.119.86.68:8000/play/c012/index.m3u8
@@ -273,24 +209,6 @@ https://bit.ly/3B1M54o?/playlist.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/trace-urban-logo.png" group-title="Música",TRACE URBAN
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="92" tvg-name="Страна FM" tvg-logo="https://i.imgur.com/strana-fm-logo.png" group-title="Música",Страна FM
-https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="93" tvg-name="PASIONES" tvg-logo="https://i.imgur.com/pasiones-logo.png" group-title="Novelas",PASIONES
-http://179.51.136.19:8000/play/a1bv/index.m3u8
-
-#EXTINF:-1 tvg-id="94" tvg-name="Pasiones HD" tvg-logo="https://i.imgur.com/pasiones-hd-logo.png" group-title="Novelas",Pasiones HD
-http://45.176.71.20:1689/play/a0nt
-
-#EXTINF:-1 tvg-id="95" tvg-name="Tlnovelas" tvg-logo="https://i.imgur.com/tlnovelas-logo.png" group-title="Novelas",Tlnovelas
-http://181.119.85.222:8000/play/a00d/index.m3u8
-
-#EXTINF:-1 tvg-id="96" tvg-name="TNT Novelas" tvg-logo="https://i.imgur.com/tnt-novelas-logo.png" group-title="Novelas",TNT Novelas
-http://200.60.124.19:29000/play/a06r
-
-#EXTINF:-1 tvg-id="97" tvg-name="KANAL D DRAMA" tvg-logo="https://i.imgur.com/kanal-d-logo.png" group-title="Novelas",KANAL D DRAMA
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-
 #EXTINF:-1 tvg-id="98" tvg-name="MyTime" tvg-logo="https://i.imgur.com/mytime-logo.png" group-title="Novelas",MyTime
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
 
@@ -305,39 +223,3 @@ http://179.51.136.19:8000/play/a1hu/index.m3u8
 
 #EXTINF:-1 tvg-id="102" tvg-name="13 MAX" tvg-logo="https://i.imgur.com/13max-logo.png" group-title="Entretenimiento",13 MAX
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="103" tvg-name="ABC" tvg-logo="https://i.imgur.com/abc-logo.png" group-title="Internacional",ABC
-http://fortv.cc:8080/90820916/64752029/120855
-
-#EXTINF:-1 tvg-id="104" tvg-name="CANAL RUSO" tvg-logo="https://i.imgur.com/canal-ruso-logo.png" group-title="Internacional",CANAL RUSO
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="105" tvg-name="NTV RUSO" tvg-logo="https://i.imgur.com/ntv-logo.png" group-title="Internacional",NTV RUSO
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="106" tvg-name="NTV HIT RUSO" tvg-logo="https://i.imgur.com/ntv-hit-logo.png" group-title="Internacional",NTV HIT RUSO
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="107" tvg-name="NTV-Pravo RUSO" tvg-logo="https://i.imgur.com/ntv-pravo-logo.png" group-title="Internacional",NTV-Pravo RUSO
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="108" tvg-name="NTV-Serial-HD" tvg-logo="https://i.imgur.com/ntv-serial-logo.png" group-title="Internacional",NTV-Serial-HD
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="109" tvg-name="NTV-Style-HD" tvg-logo="https://i.imgur.com/ntv-style-logo.png" group-title="Internacional",NTV-Style-HD
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="110" tvg-name="BigAsia HD" tvg-logo="https://i.imgur.com/bigasia-logo.png" group-title="Internacional",BigAsia HD
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="111" tvg-name="Sochi Live HD" tvg-logo="https://i.imgur.com/sochi-logo.png" group-title="Internacional",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="112" tvg-name="ACTION HD RUSO" tvg-logo="https://i.imgur.com/action-ruso-logo.png" group-title="Internacional",ACTION HD RUSO
-http://87.120.179.187:8000/play/a00v
-
-#EXTINF:-1 tvg-id="113" tvg-name="RINGHD" tvg-logo="https://i.imgur.com/ringhd-logo.png" group-title="Internacional",RINGHD
-http://87.120.179.187:8000/play/a00w
-
-#EXTINF:-1 tvg-id="114" tvg-name="CITYRADIO" tvg-logo="https://i.imgur.com/cityradio-logo.png" group-title="Internacional",CITYRADIO
-http://87.120.179.187:8000/play/a001 
